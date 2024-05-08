@@ -1,0 +1,3 @@
+http://localhost:3310/actuator/circuitbreakers
+
+http://localhost:3310/actuator/health
